@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\area.o
+./release\delegate.o
+./release\letter.o
+./release\letterlist.o
+./release\moc_mainwindow.o
+./release\moc_area.o
+./release\moc_delegate.o
+./release\moc_letterlist.o
+./release\qrc_pixmaps.o
+);

@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="empty">pixmaps/empty.png</file>
+        <file alias="space">pixmaps/letter.png</file>
+        <file alias="emptyClicked">pixmaps/emptyClicked.png</file>
+        <file alias="spaceClicked">pixmaps/letterClicked.png</file>
+    </qresource>
+</RCC>
